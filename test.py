@@ -11,7 +11,7 @@ def main():
     
     # 简单循环测试
     for i in range(1, 6):
-        print(f"计数 {i}")
+        print(f"计x数 {i}")
 
 if __name__ == "__main__":
     main()
